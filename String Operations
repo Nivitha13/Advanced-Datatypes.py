@@ -1,0 +1,13 @@
+SPLIT:
+a="Hi This is Nivi"
+a.split(" ")
+
+STRIP:
+b="   Good Morning All   "
+b.strip()
+b.rstrip()
+b.lstrip()
+
+REPLACE:
+c="Hi World"
+c.replace("Hi","Hello")
