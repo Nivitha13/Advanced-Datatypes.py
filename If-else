@@ -1,0 +1,19 @@
+num = 3
+if num>0:
+  print("Greater number")
+elif num<0:
+  print("Lesser number")
+
+
+if a<50:
+  print("Fail")
+elif a>25 and a<45:
+  print("Pass")
+elif a>45 and a<50:
+  print("Pass")
+elif a>50 and a<60:
+  print("Pass")
+elif a>60 and a<80:
+  print("Pass")
+elif a>80:
+  print("Pass")
