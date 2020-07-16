@@ -17,3 +17,9 @@ elif a>60 and a<80:
   print("Pass")
 elif a>80:
   print("Pass")
+
+a=10
+if a=%2==0:
+  print "Good Morning"
+else:
+   print "Good Evening"
