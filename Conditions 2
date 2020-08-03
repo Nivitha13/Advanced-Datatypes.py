@@ -21,17 +21,17 @@ else:
 
 
 num = 4
-if num=%2==0:
-   print("{4} is a Even Number")
+if num%2==0:
+   print("4 is a Even Number")
 else:
-   print("{4} is a Odd Number")")
+   print("4 is a Odd Number")")
 
 
 I find if I put a number between 1 to 10 it always falls to the else statement.
 
 if number in range(1, 5):
-    print "You entered a number in the range of 1 to 5"
+    print "You entered a number in the range of 1 to 6"
 elif number in range(6, 10):
-    print "You entered a number in the range of 6 to 10"
+    print "You entered a number in the range of 6 to 11"
 else:
     print "Your number wasn't in the correct range"
