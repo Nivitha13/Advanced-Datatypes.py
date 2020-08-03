@@ -15,9 +15,9 @@ else:
 
 num = 7
 if a%2!==0:
-   print("{7} is a Even Number")
+   print("7 is a Even Number")
 else:
-   print("{7} is a Odd Number")")
+   print("7 is a Odd Number")")
 
 
 num = 4
