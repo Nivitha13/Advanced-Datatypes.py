@@ -1,0 +1,37 @@
+var = 100
+if nv == 200:
+   print "True expression value"
+   print nv
+elif nv == 150:
+   print "True expression value"
+   print nv
+elif nv == 100:
+   print "True expression value"
+   print nv
+else:
+   print "False expression value"
+   print nv
+
+
+num = 7
+if a%2!==0:
+   print("{7} is a Even Number")
+else:
+   print("{7} is a Odd Number")")
+
+
+num = 4
+if num=%2==0:
+   print("{4} is a Even Number")
+else:
+   print("{4} is a Odd Number")")
+
+
+I find if I put a number between 1 to 10 it always falls to the else statement.
+
+if number in range(1, 5):
+    print "You entered a number in the range of 1 to 5"
+elif number in range(6, 10):
+    print "You entered a number in the range of 6 to 10"
+else:
+    print "Your number wasn't in the correct range"
