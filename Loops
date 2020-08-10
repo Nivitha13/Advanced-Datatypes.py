@@ -1,0 +1,44 @@
+FOR LOOP:
+
+sun=1,2,3,4
+moon=len(sun)
+for sunset in range(len(sun)):
+  print sun[sunset]
+
+p=50
+for w in range(50):
+  if w%10==0:
+    print("True",w)
+
+
+son=1,2,3,4,5,6,7,8,9,10
+daug=len(son)
+for mom in range(len(son)):
+  if mom%3==0:
+    print son[mom]
+
+
+
+WHILE LOOP:
+
+solar=10
+while solar<20:
+  print "solar eclipse"
+  solar+=1
+
+lunar=50
+while lunar>30:
+  print "lunar eclipse"
+  lunar-=1
+
+
+DICT
+nivi={1:2,3:4,5:6,7:8}
+for vikky in nivi:
+  print nivi[vikky]
+  
+  s={"a":"b","c":"d"}
+  for t in s:
+    print s[t]
+
+
